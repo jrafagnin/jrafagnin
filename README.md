@@ -3,10 +3,11 @@
 
 <h3 align="center">Hello! I am a student of Systems Analysis and Development with a growing enthusiasm for back-end development. With a solid foundation in programming logic and software development, I am focused on deepening my knowledge in server technologies and databases. I have a strong interest in JavaScript and SQL, and I am particularly excited about learning how to create and integrate APIs. Passionate about solving complex problems and optimizing processes, my goal is to contribute to innovative projects and grow professionally in the field of systems development.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrafagnin&label=Profile%20views&color=0e75b6&style=flat" alt="jrafagnin" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrafagnin&show_icons=true&locale=en&layout=compact" alt="jrafagnin" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrafagnin&show_icons=true&locale=en" alt="jrafagnin" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrafagnin&label=Profile%20views&color=0e75b6&style=flat" alt="jrafagnin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
